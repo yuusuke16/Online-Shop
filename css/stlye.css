@@ -1,0 +1,92 @@
+.header_bg {
+  background-image: url(../img/slide1.png);
+  max-width: 100%;
+  height: 397px;
+  background-size: cover;
+}
+
+header {
+  margin: 0 auto;
+  width: 950px;
+}
+
+.logo {
+  margin-top: 25px;
+}
+
+.telbox {
+  margin-top: 25px;
+  
+}
+.telbox h3 {
+  padding-left: 60px;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 30px;
+  color: #ff5a00;
+}
+
+.itembox {
+  text-align: center;
+  margin: 20px 0 20px 0;
+}
+.itembox a img{
+  margin-bottom: 10px;
+}
+img {
+  width: 70%;
+}
+
+.hp-btn {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.hp-btn button {
+  color: #fff;
+  background-color: #ff5a00;
+  
+}
+
+.content h2 {
+  font-size: 25px;
+}
+
+.content span {
+  font-size: 15px;
+}
+
+.link-sns-row {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+.link-sns-row li {
+  margin: 10px;
+}
+
+.link-sns-row a {
+  color: gray;
+  font-size: 30px;
+}
+
+.footer-nav {
+  display: flex;
+  padding-bottom: 15px;
+  justify-content: center;
+}
+.footer-nav a {
+  color: #000;
+  
+}
+
+.copyright {
+  background-color: #e5e5e5;
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 33px;
+  margin-top: 40px;
+}
