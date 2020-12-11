@@ -6,17 +6,7 @@ Online-Shop
 HTML/CSS JavaScript,Bootstrap
 
 ## Usage
-
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+サイト内にて買い物ができるようになる
+git clone https://github.com/yuusuke16/Online-Shop.git
 # Note
-注意点などがあれば書く
-
-# Author
-作成情報を列挙する
-
-作成者
-所属
-E-mail
-License
+決算機能，商品説明ページ未実装
