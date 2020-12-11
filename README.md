@@ -1,10 +1,35 @@
-# Name 
+# Name
 Online-Shop
-# Description
-前職にて，物販売上を自動で出したい！というところからECサイトを作成する経緯となりました。
+整体サロンの自社ECサイトを作成
+
+## Dependency
+HTML/CSS JavaScript,Bootstrap
+
+# Features
+"hoge"のセールスポイントや差別化などを説明する
+
+# Requirement
+"hoge"を動かすのに必要なライブラリなどを列挙する
+
+huga 3.5.2
+hogehuga 1.0.2
+Installation
+Requirementで列挙したライブラリなどのインストール方法を説明する
+
+pip install huga_package
 # Usage
-サイト内にて買い物ができる予定
-# 使用言語 
-HTML/CSS JavaScript,
-# フレームワーク
-Bootstrap
+DEMOの実行方法など、"hoge"の基本的な使い方を説明する
+
+git clone https://github.com/hoge/~
+cd examples
+python demo.py
+# Note
+注意点などがあれば書く
+
+# Author
+作成情報を列挙する
+
+作成者
+所属
+E-mail
+License
